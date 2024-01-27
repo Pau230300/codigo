@@ -1,0 +1,31 @@
+hotel,hotel_country,has_pool,has_spa,has_theatre,stars
+PLP,Japan,True,True,False,1
+HHO,Chad,False,False,True,5
+IKL,Sierra Leone,False,False,True,2
+CSM,Bangladesh,False,True,True,5
+PQL,Fiji,False,False,False,4
+GPP,Nauru,False,False,True,4
+SQC,Cote d'Ivoire,False,True,True,2
+EUZ,Bouvet Island (Bouvetoya),True,False,True,1
+REL,Albania,False,True,False,3
+RCE,Aruba,True,False,False,4
+LMB,Brazil,False,True,False,1
+NAD,Syrian Arab Republic,True,False,True,4
+JHR,Kuwait,False,True,True,2
+BXO,Niger,True,False,False,5
+QLN,India,False,True,False,4
+GZD,Mexico,True,True,True,4
+GNT,Guam,True,True,True,4
+PEV,Belarus,False,True,True,3
+CJY,Tokelau,False,True,False,1
+QPT,Argentina,True,True,False,2
+SGU,Iceland,False,True,True,3
+VPH,Cape Verde,True,False,False,4
+ZDC,Malaysia,False,True,True,1
+ECJ,Malawi,True,False,True,1
+UIO,American Samoa,True,True,False,1
+TJR,Palau,True,True,True,5
+GGE,Greenland,True,True,True,5
+TXL,Mauritania,False,True,True,1
+HTW,Liechtenstein,True,True,True,5
+YWO,Austria,True,False,True,1
